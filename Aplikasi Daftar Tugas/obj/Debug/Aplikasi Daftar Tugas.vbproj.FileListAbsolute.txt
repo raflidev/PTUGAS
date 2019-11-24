@@ -1,0 +1,26 @@
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\obj\Debug\Aplikasi Daftar Tugas.vbproj.GenerateResource.Cache
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\bin\Debug\Aplikasi Daftar Tugas.exe
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\bin\Debug\Aplikasi Daftar Tugas.pdb
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\bin\Debug\Aplikasi Daftar Tugas.xml
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\obj\Debug\Aplikasi_Daftar_Tugas.mapel.resources
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\obj\Debug\Aplikasi_Daftar_Tugas.Resources.resources
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\obj\Debug\Aplikasi_Daftar_Tugas.users.resources
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\obj\Debug\Aplikasi Daftar Tugas.exe
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\obj\Debug\Aplikasi Daftar Tugas.xml
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\obj\Debug\Aplikasi Daftar Tugas.pdb
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Daftar Tugsa\obj\Debug\Aplikasi_Daftar_Tugas.tugas.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi Daftar Tugas.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi Daftar Tugas.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi Daftar Tugas.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\bin\Debug\Aplikasi Daftar Tugas.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\bin\Debug\Aplikasi Daftar Tugas.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\bin\Debug\Aplikasi Daftar Tugas.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi_Daftar_Tugas.mapel.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi_Daftar_Tugas.Resources.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi_Daftar_Tugas.tugas.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi_Daftar_Tugas.users.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi Daftar Tugas.vbproj.GenerateResource.Cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi_Daftar_Tugas.MenuUtama.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Daftar Tugas\Aplikasi Daftar Tugas\obj\Debug\Aplikasi_Daftar_Tugas.Login.resources
